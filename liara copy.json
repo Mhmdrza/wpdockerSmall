@@ -1,0 +1,10 @@
+{
+    "app": "wps",
+    "platform": "php",
+    "disks": [
+        {
+            "name": "phpdisk",
+            "mountTo": "/var"
+        }
+    ]
+}

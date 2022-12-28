@@ -1,0 +1,5 @@
+{
+    "app": "minwp",
+    "platform": "docker",
+    "port": 80
+}

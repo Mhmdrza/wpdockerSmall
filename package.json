@@ -1,0 +1,15 @@
+{
+  "name": "phpliara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@liara/cli": "^3.2.1",
+    "liara": "^0.0.1"
+  }
+}
